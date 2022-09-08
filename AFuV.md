@@ -661,7 +661,7 @@ nach Buchstabe A und Buchstabe B.
 
     P: Amateurfunkdienst ist primärer Funkdienst, S: Amateurfunkdienst
     ist sekundärer Funkdienst gemäß
-    Frequenzbereichszuweisungsplanverordnung. Die mit \"P\"
+    Frequenzbereichszuweisungsplanverordnung. Die mit "P"
     gekennzeichneten Frequenzbereiche können gleichzeitig auch anderen
     primären Funkdiensten zugewiesen sein.
 
