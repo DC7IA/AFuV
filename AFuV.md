@@ -1,5 +1,3 @@
-[]{#DECKBLATT.html}
-
 ![bund\_logo](images/BfJ_2021_Web_de_de.gif)
 
 Verordnung zum Gesetz über den Amateurfunk (Amateurfunkverordnung - AFuV)
@@ -669,7 +667,8 @@ nach Buchstabe A und Buchstabe B.\
 
 [Tabellarische Übersicht]
 
-| | | | ----------------------------------------- | | Besondere Nutzungsbestimmungen |
+                                                                                                                       ------------------------------
+                                                                                                                       Besondere Nutzungsbestimmungen
 
 | Lfd. Nr. | Frequenzbereiche   | Status*) | AFu-Zeugnisklasse gemäß Zulassungsurkunde | Maximale Leistung | Zusätzliche Nutzungsbestimmungen gemäß B |
 |----------|--------------------|----------|-------------------------------------------|-------------------|------------------------------------------|
@@ -725,8 +724,6 @@ nach Buchstabe A und Buchstabe B.\
     Frequenzbereichszuweisungsplanverordnung. Die mit \"P\"
     gekennzeichneten Frequenzbereiche können gleichzeitig auch anderen
     primären Funkdiensten zugewiesen sein.
-
-\
 
      
                         B Zusätzliche Nutzungsbestimmungen 
