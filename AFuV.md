@@ -35,32 +35,20 @@ Bundesministerium der Finanzen:
 
 Diese Verordnung regelt
 
-1.
-
-    die Durchführung und die inhaltlichen Anforderungen der fachlichen
+1.  die Durchführung und die inhaltlichen Anforderungen der fachlichen
     Prüfung für Funkamateure,
 
-2.
+2.  die Einteilung der verschiedenen Arten von Amateurfunkzeugnissen,
 
-    die Einteilung der verschiedenen Arten von Amateurfunkzeugnissen,
-
-3.
-
-    das Anerkennen ausländischer Amateurfunk-Prüfungsbescheinigungen
+3.  das Anerkennen ausländischer Amateurfunk-Prüfungsbescheinigungen
     oder Genehmigungen,
 
-4.
-
-    das Verfahren der Zuteilung und Einzelheiten der Anwendung und
+4.  das Verfahren der Zuteilung und Einzelheiten der Anwendung und
     Mitbenutzung von Rufzeichen,
 
-5.
+5.  den Ausbildungsfunkbetrieb und
 
-    den Ausbildungsfunkbetrieb und
-
-6.
-
-    die technischen und betrieblichen Rahmenbedingungen für die
+6.  die technischen und betrieblichen Rahmenbedingungen für die
     Durchführung des Amateurfunkdienstes einschließlich der
     Nutzungsbedingungen für die im Frequenznutzungsplan für den
     Amateurfunkdienst ausgewiesenen Frequenzbereiche (Anlage 1).
@@ -73,75 +61,53 @@ unberührt.
 
 Im Sinne dieser Verordnung ist
 
-1.
-
-    \"fachliche Prüfung für Funkamateure\" eine Prüfung zum Erwerb eines
+1.  "fachliche Prüfung für Funkamateure" eine Prüfung zum Erwerb eines
     Amateurfunkzeugnisses;
 
-2.
-
-    \"Amateurfunkzeugnis oder Prüfungsbescheinigung\" die Bestätigung
+2.  "Amateurfunkzeugnis oder Prüfungsbescheinigung" die Bestätigung
     einer in- oder ausländischen Prüfungsbehörde über eine erfolgreich
     abgelegte fachliche Prüfung für Funkamateure nach bestimmten
     Prüfungsanforderungen (Zeugnisklasse);
 
-3.
-
-    \"Klubstation\" eine Amateurfunkstelle, die von Mitgliedern einer
+3.  "Klubstation" eine Amateurfunkstelle, die von Mitgliedern einer
     Gruppe von Funkamateuren unter Verwendung eines gemeinschaftlich
     genutzten Rufzeichens betrieben wird;
 
-4.
-
-    \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" eine
+4.  "fernbediente oder automatisch arbeitende Amateurfunkstelle" eine
     unbesetzt betriebene Amateurfunkstelle, die fernbedient oder
     selbsttätig Aussendungen erzeugt (Relaisfunkstellen, Digipeater,
     Funkbaken usw.);
 
-5.
-
-    \"Relaisfunkstelle\" eine fernbediente Amateurfunkstelle (auch in
+5.  "Relaisfunkstelle" eine fernbediente Amateurfunkstelle (auch in
     Satelliten), die empfangene Amateurfunkaussendungen, Teile davon
     oder sonstige eingespeiste oder eingespeicherte Signale fern
     ausgelöst aussendet und dabei zur Erhöhung der Erreichbarkeit von
     Amateurfunkstellen dient;
 
-6.
-
-    \"Funkbake\" eine automatisch arbeitende Amateurfunk-Sendeanlage
+6.  "Funkbake" eine automatisch arbeitende Amateurfunk-Sendeanlage
     (auch in Satelliten), die selbsttätig Aussendungen zur
     Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt;
 
-7.
-
-    \"Spitzenleistung (PEP)\" die Leistung, die der Sender unter
+7.  "Spitzenleistung (PEP)" die Leistung, die der Sender unter
     normalen Betriebsbedingungen während einer Periode der
     Hochfrequenzschwingung bei der höchsten Spitze der
     Modulationshüllkurve durchschnittlich an einen reellen
     Abschlusswiderstand abgeben kann;
 
-8.
-
-    \"effektive Strahlungsleistung (ERP)\" das Produkt aus der Leistung,
+8.  "effektive Strahlungsleistung (ERP)" das Produkt aus der Leistung,
     die unmittelbar der Antenne zugeführt wird, und ihrem Gewinn in
     einer Richtung, bezogen auf den Halbwellendipol;
 
-9.
-
-    \"gleichwertige isotrope Strahlungsleistung (EIRP)\" das Produkt aus
+9.  "gleichwertige isotrope Strahlungsleistung (EIRP)" das Produkt aus
     der Leistung, die unmittelbar der Antenne zugeführt wird, und ihrem
     Gewinn in einer Richtung, bezogen auf den isotropen Kugelstrahler;
 
-10.
-
-    \"belegte Bandbreite\" die Frequenzbandbreite, bei der die unterhalb
+10. "belegte Bandbreite" die Frequenzbandbreite, bei der die unterhalb
     ihrer unteren und oberhalb ihrer oberen Frequenzgrenzen
     ausgesendeten mittleren Leistungen jeweils 0,5 % der gesamten
     mittleren Leistung der Aussendung betragen;
 
-11.
-
-    \"unerwünschte Aussendung\" jede Aussendung außerhalb der
+11. "unerwünschte Aussendung" jede Aussendung außerhalb der
     erforderlichen Bandbreite; dies ist die Bandbreite, welche für eine
     gegebene Sendeart gerade ausreicht, um die Übertragung der Nachricht
     mit der Geschwindigkeit und Güte sicherzustellen, die unter den
@@ -170,18 +136,14 @@ entrichtet wurde.
 \(1\) In der fachlichen Prüfung für Funkamateure hat der Bewerber für
 das Amateurfunkzeugnis der Klasse A folgende Kenntnisse nachzuweisen:
 
-    technische Kenntnisse, einschließlich von Kenntnissen über die
+1.  technische Kenntnisse, einschließlich von Kenntnissen über die
     elektromagnetische Verträglichkeit und deren Anwendung; Personen-
     und Sachschutz,
 
-2.
-
-    betriebliche Kenntnisse (nationale und internationale betriebliche
+2.  betriebliche Kenntnisse (nationale und internationale betriebliche
     Regeln und Verfahren) und
 
-3.
-
-    Kenntnisse über nationale Vorschriften und internationale Regelungen
+3.  Kenntnisse über nationale Vorschriften und internationale Regelungen
     und Vereinbarungen.
 
 \(2\) In der fachlichen Prüfung für Funkamateure hat der Bewerber für
@@ -256,13 +218,9 @@ sichergestellt ist.
 
 \(3\) Zum Prüfer kann bestellt werden, wer
 
-1.
+1.  volljährig und
 
-    volljährig und
-
-2.
-
-    Inhaber eines Amateurfunkzeugnisses der Zeugnisklasse A oder im
+2.  Inhaber eines Amateurfunkzeugnisses der Zeugnisklasse A oder im
     Besitz eines mindestens gleichwertigen berufsqualifizierenden
     Abschlusses ist.
 
@@ -436,25 +394,17 @@ Regulierungsbehörde ist hiervon zu unterrichten.
 49 Abs. 2 des Verwaltungsverfahrensgesetzes genannten Fällen auch
 widerrufen werden, wenn
 
-1.
-
-    der Inhaber des Rufzeichens innerhalb eines Jahres nach der
+1.  der Inhaber des Rufzeichens innerhalb eines Jahres nach der
     Zuteilung den bestimmungsgemäßen Betrieb der fernbedienten oder
     automatisch arbeitenden Amateurfunkstelle nicht aufgenommen hat oder
     eine Betriebsunterbrechung von mehr als einem Jahr vorliegt,
 
-2.
-
-    die Verträglichkeit mit anderen Nutzungen nicht mehr gewährleistet
+2.  die Verträglichkeit mit anderen Nutzungen nicht mehr gewährleistet
     ist oder
 
-3.
+3.  die Voraussetzung des Absatzes 2 Satz 2 nicht mehr gegeben ist oder
 
-    die Voraussetzung des Absatzes 2 Satz 2 nicht mehr gegeben ist oder
-
-4.
-
-    der Inhaber des Rufzeichens seine Verpflichtungen nach Absatz 1 Satz
+4.  der Inhaber des Rufzeichens seine Verpflichtungen nach Absatz 1 Satz
     2 oder eine Auflage nach Absatz 3 Satz 2 nicht erfüllt.
 
 ### § 14 Klubstationen
@@ -489,18 +439,12 @@ Rufzeichen und ihre Inhaber in einer Rufzeichenliste.
 
 \(2\) Die Rufzeichenliste enthält folgende Angaben:
 
-1.
+1.  zugeteiltes Rufzeichen, Klasse und Verwendungszweck,
 
-    zugeteiltes Rufzeichen, Klasse und Verwendungszweck,
-
-2.
-
-    Name, Vorname und Anschrift des Inhabers der Zulassung zur Teilnahme
+2.  Name, Vorname und Anschrift des Inhabers der Zulassung zur Teilnahme
     am Amateurfunkdienst und
 
-3.
-
-    Standort der ortsfesten Amateurfunkstelle.
+3.  Standort der ortsfesten Amateurfunkstelle.
 
 \(3\) Der Eintragung in die Rufzeichenliste kann widersprochen werden.
 Der Widerspruch ist in schriftlicher oder elektronischer Form bei der
@@ -585,14 +529,10 @@ Verträglichkeit von Betriebsmitteln bleiben unberührt.
 \(1\) Für Amateurfunkzeugnisse, die vor dem Inkrafttreten dieser
 Verordnung erteilt wurden, gilt:
 
-1.
-
-    Amateurfunkzeugnisse der Klasse 3 stehen dem Amateurfunkzeugnis der
+1.  Amateurfunkzeugnisse der Klasse 3 stehen dem Amateurfunkzeugnis der
     Klasse E im Sinne dieser Verordnung gleich.
 
-2.
-
-    Alle anderen erteilten Amateurfunkzeugnisse stehen dem
+2.  Alle anderen erteilten Amateurfunkzeugnisse stehen dem
     Amateurfunkzeugnis der Klasse A im Sinne dieser Verordnung gleich.
 
 \(2\) Für Zulassungen zur Teilnahme am Amateurfunkdienst und für
@@ -633,7 +573,7 @@ Auf der Grundlage des § 6 Satz 1 des Gesetzes über den Amateurfunk vom
 23. Juni 1997 (BGBl. I S. 1494) werden im Folgenden die technischen und
 betrieblichen Rahmenbedingungen für die Nutzung von Frequenzen des
 Amateurfunkdienstes und des Amateurfunkdienstes über Satelliten
-festgelegt:\
+festgelegt:
 Fernbediente und automatisch arbeitende Amateurfunkstellen im Sinne von
 § 13 Abs. 1 und 2 dieser Verordnung dürfen nur auf den in der
 Rufzeichenzuteilung für diese Amateurfunkstellen ausgewiesenen
@@ -641,13 +581,13 @@ Frequenzen betrieben werden. Die maximal zulässige Strahlungsleistung
 für fernbediente oder automatisch arbeitende terrestrische
 Amateurfunkstellen beträgt oberhalb 30 MHz 15 Watt ERP. Der Inhaber der
 Rufzeichenzuteilung muss sicherstellen, dass fernbediente
-Amateurfunkstellen jederzeit abgeschaltet werden können.\
+Amateurfunkstellen jederzeit abgeschaltet werden können.
 Die belegte Bandbreite einer Aussendung ist entsprechend dem Stand der
 Technik auf das für die verwendete Sendeart notwendige Ausmaß zu
 beschränken. Die Mittenfrequenz der Aussendungen ist so zu wählen, dass
 die belegte Bandbreite innerhalb des dem Amateurfunk zugewiesenen
 Frequenzbereiches liegt. Der Vorrang des Funkverkehrs bereits belegter
-Frequenzen ist zu beachten.\
+Frequenzen ist zu beachten.
 Die Funkdienste werden nach primären und sekundären Funkdiensten
 unterschieden. Ein primärer Funkdienst ist ein Funkdienst, dessen
 Funkstellen Schutz gegen Störungen durch Funkstellen sekundärer
@@ -661,14 +601,13 @@ Schutz vor Störungen durch solche Funkstellen verlangen können,
 unabhängig davon, wann die Frequenzzuteilung an Funkstellen des primären
 Funkdienstes erfolgt. Sie können jedoch Schutz gegen Störungen durch
 Funkstellen des gleichen oder eines anderen sekundären Funkdienstes
-verlangen, deren Frequenzzuteilung später erfolgt.\
+verlangen, deren Frequenzzuteilung später erfolgt.
 In den Frequenzbereichen gemäß Buchstabe A gelten die Regelungen des
 Frequenznutzungsplans und zusätzlich die besonderen Nutzungsbestimmungen
-nach Buchstabe A und Buchstabe B.\
+nach Buchstabe A und Buchstabe B.
 
 [Tabellarische Übersicht]
 
-                                                                                                                       ------------------------------
                                                                                                                        Besondere Nutzungsbestimmungen
 
 | Lfd. Nr. | Frequenzbereiche   | Status*) | AFu-Zeugnisklasse gemäß Zulassungsurkunde | Maximale Leistung | Zusätzliche Nutzungsbestimmungen gemäß B |
@@ -727,77 +666,51 @@ nach Buchstabe A und Buchstabe B.\
     primären Funkdiensten zugewiesen sein.
 
      
-                        B Zusätzliche Nutzungsbestimmungen 
+                B Zusätzliche Nutzungsbestimmungen 
 
-1
+1   Maximal zulässige belegte Bandbreite einer Aussendung: 800 Hz.
 
-    Maximal zulässige belegte Bandbreite einer Aussendung: 800 Hz.
-
-2
-
-    Die Betriebsorte sind bei der Regulierungsbehörde schriftlich
+2   Die Betriebsorte sind bei der Regulierungsbehörde schriftlich
     anzuzeigen. Die Sendeantenne ist gegenüber anderen Anlagen
     ausreichend zu entkoppeln. Werden Störungen bei Primärfunkdiensten
     auch in benachbarten Frequenzbereichen verursacht, ist der Betrieb
     einzustellen.
 
-3
+3   Maximal zulässige belegte Bandbreite einer Aussendung: 2,7 kHz.
 
-    Maximal zulässige belegte Bandbreite einer Aussendung: 2,7 kHz.
+4   Maximal zulässige belegte Bandbreite einer Aussendung: 7 kHz.
 
-4
-
-    Maximal zulässige belegte Bandbreite einer Aussendung: 7 kHz.
-
-5
-
-    Die Nutzung des Frequenzbereichs kann von der Regulierungsbehörde
+5   Die Nutzung des Frequenzbereichs kann von der Regulierungsbehörde
     mit zusätzlichen allgemeinen Auflagen versehen werden; die Nutzung
     ist auf feste Amateurfunkstellen beschränkt. Die Nutzungsbedingungen
     werden durch die Regulierungsbehörde festgelegt und in ihrem
     Amtsblatt veröffentlicht.
 
-6
+6   Maximal zulässige belegte Bandbreite einer Aussendung: 40 kHz.
 
-    Maximal zulässige belegte Bandbreite einer Aussendung: 40 kHz.
-
-7
-
-    Die maximal zulässige belegte Bandbreite einer Aussendung beträgt 2
+7   Die maximal zulässige belegte Bandbreite einer Aussendung beträgt 2
     MHz und bei amplitudenmodulierten Fernsehaussendungen 7 MHz.
 
-8
-
-    Die maximal zulässige belegte Bandbreite einer Aussendung beträgt 2
+8   Die maximal zulässige belegte Bandbreite einer Aussendung beträgt 2
     MHz, bei amplitudenmodulierten oder digitalen Fernsehaussendungen 7
     MHz und bei frequenzmodulierten Fernsehaussendungen 18 MHz.
 
-9
-
-    Die maximal zulässige belegte Bandbreite einer Aussendung beträgt 10
+9   Die maximal zulässige belegte Bandbreite einer Aussendung beträgt 10
     MHz und bei Fernsehaussendungen 20 MHz.
 
-10
-
-    Der Betrieb von fernbedienten Amateurfunkstellen ist nicht
+10  Der Betrieb von fernbedienten Amateurfunkstellen ist nicht
     gestattet. Amateurfunk-Wettbewerbe (Contestbetrieb) dürfen in diesem
     Frequenzbereich nicht durchgeführt werden.
 
-11
-
-    Im Teilbereich 1.247 bis 1.263 MHz ist die abgestrahlte Leistung auf
+11  Im Teilbereich 1.247 bis 1.263 MHz ist die abgestrahlte Leistung auf
     maximal 5 Watt EIRP beschränkt. Der Betrieb von fernbedienten und
     automatisch arbeitenden Amateurfunkstellen ist in diesem Bereich
     nicht zulässig.
 
-12
-
-    Die maximal zulässige Strahlungsleistung für automatisch arbeitende
+12  Die maximal zulässige Strahlungsleistung für automatisch arbeitende
     Amateurfunkstellen beträgt 15 Watt ERP.
 
-13
-
-    Die Frequenzbereiche 7.000 - 7.100 kHz, 14.000 - 14.250 kHz,
+13  Die Frequenzbereiche 7.000 - 7.100 kHz, 14.000 - 14.250 kHz,
     18.068 - 18.168 kHz, 21.000 - 21.450 kHz, 24.890 - 24.990 kHz, 28 -
     29,7 MHz, 144 - 146 MHz, 24 - 24,05 GHz, 47 - 47,2 GHz, 75,5 - 76
     GHz, 134 - 136 GHz und 248 - 250 GHz können auch für den
@@ -815,9 +728,7 @@ nach Buchstabe A und Buchstabe B.\
     ist auf die Senderichtung Erde - Weltraum und im Frequenzbereich
     5.830 - 5.850 MHz auf die Senderichtung Weltraum - Erde beschränkt.
 
-14
-
-    Die Frequenzbereiche 444 -- 453 GHz, 510 -- 546 GHz, 711 -- 730 GHz,
+14  Die Frequenzbereiche 444 -- 453 GHz, 510 -- 546 GHz, 711 -- 730 GHz,
     909 -- 926 GHz, 945 -- 951 GHz und Frequenzen oberhalb von 956 GHz
     können durch den Amateurfunkdienst genutzt werden. Die
     Nutzungsbedingungen werden durch die Regulierungsbehörde festgelegt
