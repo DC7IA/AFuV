@@ -1,61 +1,174 @@
----
-date: 2022-01-26
-identifier: BJNR024200005
-language: de
-title: Verordnung zum Gesetz über den Amateurfunk (Amateurfunkverordnung - AFuV)
----
-
 []{#DECKBLATT.html}
 
-+:----------------------------------+----------------------------------:+
-| ![bund_logo]                      |                                   |
-| (images/BfJ_2021_Web_de_de.gif)   |                                   |
-+-----------------------------------+-----------------------------------+
-| # Verordn                         |                                   |
-| ung zum Gesetz über den Amateurfu |                                   |
-| nk (Amateurfunkverordnung - AFuV) |                                   |
-+-----------------------------------+-----------------------------------+
-| ##### Ama                         |                                   |
-| teurfunkverordnung vom 15. Februa |                                   |
-| r 2005 (BGBl. I S. 242), die zule |                                   |
-| tzt durch Artikel 4 Absatz 109 de |                                   |
-| s Gesetzes vom 18. Juli 2016 (BGB |                                   |
-| l. I S. 1666) geändert worden ist |                                   |
-+-----------------------------------+-----------------------------------+
-| \                                 |                                   |
-| \                                 |                                   |
-|                                   |                                   |
-| ##### Gesetze                     |                                   |
-| im Internet - ePub  herausgegeben |                                   |
-|  vom Bundesministerium der Justiz |                                   |
-+-----------------------------------+-----------------------------------+
-| \                                 |                                   |
-| \                                 |                                   |
-|                                   |                                   |
-| ##### erzeugt am: 26.01.2022      |                                   |
-+-----------------------------------+-----------------------------------+
+```{=html}
+<table border="0" frame="border" width="100%">
+```
+```{=html}
+<tr valign="top">
+```
+```{=html}
+<td align="left">
+```
+![bund\_logo](images/BfJ_2021_Web_de_de.gif)
 
+```{=html}
+</td>
+```
+```{=html}
+<td align="right">
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr align="center" valign="middle">
+```
+```{=html}
+<td colspan="2">
+```
+Verordnung zum Gesetz über den Amateurfunk (Amateurfunkverordnung - AFuV)
+=========================================================================
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr align="center" valign="middle">
+```
+```{=html}
+<td colspan="2">
+```
+##### Amateurfunkverordnung vom 15. Februar 2005 (BGBl. I S. 242), die zuletzt durch Artikel 4 Absatz 109 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) geändert worden ist
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr align="center" valign="middle">
+```
+```{=html}
+<td colspan="2">
+```
+\
+\
+
+##### Gesetze im Internet - ePub  herausgegeben vom Bundesministerium der Justiz
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr align="center" valign="bottom">
+```
+```{=html}
+<td colspan="2">
+```
+\
+\
+
+##### erzeugt am: 26.01.2022
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 []{#BJNR024200005.html}
 
-# Verordnung zum Gesetz über den Amateurfunk (Amateurfunkverordnung - AFuV)
+Verordnung zum Gesetz über den Amateurfunk (Amateurfunkverordnung - AFuV)
+=========================================================================
 
 <div>
 
 ::: {.jnhtml}
-  ---------------- ---------------------------------------------------------------
-  Stand:           Zuletzt geändert durch Art. 4 Abs. 109 G v. 18.7.2016 I 1666
-
-  Mittelbare       
-  Änderung durch   
-  Art. 2 G v.      
-  18.7.2016 I 1666 
-  ist              
-  berücksichtigt   
-  ---------------- ---------------------------------------------------------------
+```{=html}
+<table width="100%">
+```
+```{=html}
+<colgroup>
+```
+```{=html}
+<col width="10%">
+```
+```{=html}
+</col>
+```
+```{=html}
+<col width="90%">
+```
+```{=html}
+</col>
+```
+```{=html}
+</colgroup>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Stand:
 :::
 
 </div>
 
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Zuletzt geändert durch Art. 4 Abs. 109 G v. 18.7.2016 I 1666
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td colspan="2">
+```
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist
+berücksichtigt
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+```{=html}
+</div>
+```
+```{=html}
+</div>
+```
 <div>
 
 \
@@ -1185,107 +1298,3286 @@ verlangen, deren Frequenzzuteilung später erfolgt.\
 In den Frequenzbereichen gemäß Buchstabe A gelten die Regelungen des
 Frequenznutzungsplans und zusätzlich die besonderen Nutzungsbestimmungen
 nach Buchstabe A und Buchstabe B.\
+```{=html}
+<table style="border: none;">
+```
+```{=html}
+<colgroup>
+```
+```{=html}
+<col width="10%">
+```
+```{=html}
+</col>
+```
+```{=html}
+<col width="19%">
+```
+```{=html}
+</col>
+```
+```{=html}
+<col width="10%">
+```
+```{=html}
+</col>
+```
+```{=html}
+<col width="19%">
+```
+```{=html}
+</col>
+```
+```{=html}
+<col width="13%">
+```
+```{=html}
+</col>
+```
+```{=html}
+<col width="10%">
+```
+```{=html}
+</col>
+```
+```{=html}
+<col width="10%">
+```
+```{=html}
+</col>
+```
+```{=html}
+<col width="10%">
+```
+```{=html}
+</col>
+```
+```{=html}
+</colgroup>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style colspan="2">
+```
+ 
+:::
 
-  ------- ------------------ --------------------------------------- ------------------- ---------- ----------------------------------------------------------------------------------- ------- -------
-                                        [A Tabellarische                                                                                                                                        
-                              Übersicht]{style=";font-weight:bold"}                                                                                                                             
+</div>
+:::
 
-                                                                                                    \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--           
+</div>
 
-                                                                                                    Besondere Nutzungsbestimmungen                                                              
+```{=html}
+</td>
+```
+```{=html}
+<td style colspan="3" align="center">
+```
+[A Tabellarische Übersicht]{style=";font-weight:bold"}
 
-  Lfd.    Frequenzbereiche                  Status\*)                 AFu-Zeugnisklasse   Maximale  Zusätzliche Nutzungsbestimmungen gemäß B                                                    
-  Nr.                                                                       gemäß         Leistung                                                                                              
-                                                                      Zulassungsurkunde                                                                                                         
+```{=html}
+</td>
+```
+```{=html}
+<td style colspan="3">
+```
+ 
 
-  1       2                                     3                             4              5      6                                                                                           
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style colspan="2" align="right">
+```
+ 
 
-  1       135,7 - 137,8 kHz                     S                             A           1 W ERP   1                                                                                   2       10
+```{=html}
+</td>
+```
+```{=html}
+<td style colspan="3">
+```
+ 
 
-  2       1.810 - 1.850 kHz                     P                             A          750 W PEP  3                                                                                            
+```{=html}
+</td>
+```
+```{=html}
+<td style colspan="3" align="right">
+```
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
-  2a      1.810 - 1.850 kHz                     P                             E          100 W PEP  3                                                                                            
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="border-bottom: 0.5pt solid ; ">
+```
+```{=html}
+<td style="border-bottom: 0.5pt solid ; " colspan="2" align="right">
+```
+ 
 
-  3       1.850 - 1.890 kHz                     S                             A           75 W PEP  3                                                                                   10      12
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-bottom: 0.5pt solid ; " colspan="3">
+```
+ 
 
-  3a      1.850 - 1.890 kHz                     S                             E           75 W PEP  3                                                                                   10      12
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-bottom: 0.5pt solid ; " colspan="3" align="right">
+```
+Besondere Nutzungsbestimmungen
 
-  4       1.890 - 2.000 kHz                     S                             A           10 W PEP  3                                                                                   10       
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="border-bottom: 0.5pt solid ; ">
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center" valign="top">
+```
+Lfd. Nr.
 
-  4a      1.890 - 2.000 kHz                     S                             E           10 W PEP  3                                                                                   10       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center" valign="top">
+```
+Frequenzbereiche
 
-  5       3.500 - 3.800 kHz                     P                             A          750 W PEP  3                                                                                            
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center" valign="top">
+```
+Status\*)
 
-  5a      3.500 - 3.800 kHz                     P                             E          100 W PEP  3                                                                                            
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center" valign="top">
+```
+AFu-Zeugnisklasse gemäß Zulassungsurkunde
 
-  6       7.000 - 7.100 kHz                     P                             A          750 W PEP  3                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center" valign="top">
+```
+Maximale Leistung
 
-  6a      7.100 - 7.200 kHz                     S                             A          250 W PEP  3                                                                                            
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-bottom: 0.5pt solid ; " colspan="3" align="center" valign="top">
+```
+Zusätzliche Nutzungsbestimmungen gemäß B
 
-  7       10.100 -10.150 kHz                    S                             A          150 W PEP  1                                                                                   10      12
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="border-bottom: 0.5pt solid ; ">
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center">
+```
+1
 
-  8       14.000 -14.350 kHz                    P                             A          750 W PEP  3                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center">
+```
+2
 
-  9       18.068 -18.168 kHz                    P                             A          750 W PEP  3                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center">
+```
+3
 
-  10      21.000 -21.450 kHz                    P                             A          750 W PEP  3                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center">
+```
+4
 
-  10a     21.000 -21.450 kHz                    P                             E          100 W PEP  3                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center">
+```
+5
 
-  11      24.890 -24.990 kHz                    P                             A          750 W PEP  3                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-bottom: 0.5pt solid ; " colspan="3" align="center">
+```
+6
 
-  12      28 - 29,7 MHz                         P                             A          750 W PEP  4                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+1
 
-  12a     28 - 29,7 MHz                         P                             E          100 W PEP  4                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+135,7 - 137,8 kHz
 
-  13      50,08- 51 MHz                         S                             A           25 W ERP  5                                                                                            
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
 
-  14      144 - 146 MHz                         P                             A          750 W PEP  6                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
 
-  15      144 - 146 MHz                         P                             E           75 W PEP  6                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+1 W ERP
 
-  16      430 - 440 MHz                         P                             A          750 W PEP  7                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+1
 
-  17      430 - 440 MHz                         P                             E           75 W PEP  7                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+2
 
-  18      1.240 - 1.300 MHz                     S                             A          750 W PEP  8                                                                                   11      13
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+10
 
-  19      2.320 - 2.450 MHz                     S                             A           75 W PEP  9                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+2
 
-  20      3.400 - 3.475 MHz                     S                             A           75 W PEP  9                                                                                            
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+1.810 - 1.850 kHz
 
-  21      5.650 - 5.850 MHz                     S                             A           75 W PEP  9                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
 
-  22      10 - 10,5 GHz                         S                             A           75 W PEP  9                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
 
-  23      10 - 10,5 GHz                         S                             E           5 W PEP   9                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
 
-  24      24 - 24,05 GHz                        P                             A           75 W PEP  13                                                                                           
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
 
-  25      24,05- 24,25 GHz                      S                             A           75 W PEP  9                                                                                            
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
 
-  26      47 - 47,2 GHz                         P                             A           75 W PEP  13                                                                                           
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
 
-  27      75,5 - 76 GHz                         P                             A           75 W PEP  9                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+2a
 
-  28      76 - 77,5 GHz                         S                             A           75 W PEP  9                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+1.810 - 1.850 kHz
 
-  29      77,5 - 78 GHz                         S                             A           75 W PEP  9                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
 
-  30      78 - 81,5 GHz                         S                             A           75 W PEP  9                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+E
 
-  31      122,25- 123 GHz                       S                             A           75 W PEP  9                                                                                            
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+100 W PEP
 
-  32      134 - 136 GHz                         P                             A           75 W PEP  9                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
 
-  33      136 - 141 GHz                         S                             A           75 W PEP  9                                                                                   13       
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
 
-  34      241 - 248 GHz                         S                             A           75 W PEP  13                                                                                           
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
 
-  35      248 - 250 GHz                         P                             A           75 W PEP  13                                                                                           
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+3
 
-  36      \> 275 GHz                           \-                            \-              \-     14                                                                                           
-  ------- ------------------ --------------------------------------- ------------------- ---------- ----------------------------------------------------------------------------------- ------- -------
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+1.850 - 1.890 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+10
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+12
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+3a
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+1.850 - 1.890 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+E
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+10
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+12
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+4
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+1.890 - 2.000 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+10 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+10
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+4a
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+1.890 - 2.000 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+E
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+10 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+10
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+5
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+3.500 - 3.800 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+5a
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+3.500 - 3.800 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+E
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+100 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+6
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+7.000 - 7.100 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+6a
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+7.100 - 7.200 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+250 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+7
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+10.100 -10.150 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+150 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+1
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+10
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+12
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+8
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+14.000 -14.350 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+18.068 -18.168 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+10
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+21.000 -21.450 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+10a
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+21.000 -21.450 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+E
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+100 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+11
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+24.890 -24.990 kHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+3
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+12
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+28 - 29,7 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+4
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+12a
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+28 - 29,7 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+E
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+100 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+4
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+50,08- 51 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+25 W ERP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+5
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+14
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+144 - 146 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+6
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+15
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+144 - 146 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+E
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+6
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+16
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+430 - 440 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+7
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+17
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+430 - 440 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+E
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+7
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+18
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+1.240 - 1.300 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+750 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+8
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+11
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+19
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+2.320 - 2.450 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+20
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+3.400 - 3.475 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+21
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+5.650 - 5.850 MHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+22
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+10 - 10,5 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+23
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+10 - 10,5 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+E
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+5 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+24
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+24 - 24,05 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+25
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+24,05- 24,25 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+26
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+47 - 47,2 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+27
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75,5 - 76 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+28
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+76 - 77,5 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+29
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+77,5 - 78 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+30
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+78 - 81,5 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+31
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+122,25- 123 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+32
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+134 - 136 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+33
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+136 - 141 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+9
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+34
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+241 - 248 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+S
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+35
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+248 - 250 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+P
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+A
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+75 W PEP
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+13
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+36
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+\> 275 GHz
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+\-
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+\-
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="border-right: 0.5pt solid ; " align="center">
+```
+\-
+
+```{=html}
+</td>
+```
+```{=html}
+<td style align="center">
+```
+14
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+<td style>
+```
+ 
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
 
 \*)
 
@@ -1423,9 +4715,16 @@ nach Buchstabe A und Buchstabe B.\
     Nutzungsbedingungen werden durch die Regulierungsbehörde festgelegt
     und in ihrem Amtsblatt veröffentlicht.
     :::
-:::
 
+```{=html}
 </div>
-:::
-
+```
+```{=html}
 </div>
+```
+```{=html}
+</div>
+```
+```{=html}
+</div>
+```
