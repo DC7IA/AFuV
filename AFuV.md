@@ -669,10 +669,9 @@ nach Buchstabe A und Buchstabe B.\
 
 [A Tabellarische Übersicht]{style=";font-weight:bold"}
 
-|   | A Tabellarische Übersicht |   |
-| --- | --- | --- |
-|   |   | ----------------------------------------- |
-|   |   | Besondere Nutzungsbestimmungen |
+|   | A Tabellarische Übersicht |   | | | |
+|   |   | ----------------------------------------- | | | |
+|   |   | Besondere Nutzungsbestimmungen | | | |
 | Lfd. Nr. | Frequenzbereiche | Status*) | AFu-Zeugnisklasse gemäß Zulassungsurkunde | Maximale Leistung | Zusätzliche Nutzungsbestimmungen gemäß B |
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | 1 | 135,7 - 137,8 kHz | S | A | 1 W ERP | 1 | 2 | 10 |
