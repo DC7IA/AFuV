@@ -36,30 +36,30 @@ Bundesministerium der Finanzen:
 
 Diese Verordnung regelt
 
-1\.
+1.
 
     die Durchführung und die inhaltlichen Anforderungen der fachlichen
     Prüfung für Funkamateure,
 
-2\.
+2.
 
     die Einteilung der verschiedenen Arten von Amateurfunkzeugnissen,
 
-3\.
+3.
 
     das Anerkennen ausländischer Amateurfunk-Prüfungsbescheinigungen
     oder Genehmigungen,
 
-4\.
+4.
 
     das Verfahren der Zuteilung und Einzelheiten der Anwendung und
     Mitbenutzung von Rufzeichen,
 
-5\.
+5.
 
     den Ausbildungsfunkbetrieb und
 
-6\.
+6.
 
     die technischen und betrieblichen Rahmenbedingungen für die
     Durchführung des Amateurfunkdienstes einschließlich der
@@ -74,32 +74,32 @@ unberührt.
 
 Im Sinne dieser Verordnung ist
 
-1\.
+1.
 
     \"fachliche Prüfung für Funkamateure\" eine Prüfung zum Erwerb eines
     Amateurfunkzeugnisses;
 
-2\.
+2.
 
     \"Amateurfunkzeugnis oder Prüfungsbescheinigung\" die Bestätigung
     einer in- oder ausländischen Prüfungsbehörde über eine erfolgreich
     abgelegte fachliche Prüfung für Funkamateure nach bestimmten
     Prüfungsanforderungen (Zeugnisklasse);
 
-3\.
+3.
 
     \"Klubstation\" eine Amateurfunkstelle, die von Mitgliedern einer
     Gruppe von Funkamateuren unter Verwendung eines gemeinschaftlich
     genutzten Rufzeichens betrieben wird;
 
-4\.
+4.
 
     \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" eine
     unbesetzt betriebene Amateurfunkstelle, die fernbedient oder
     selbsttätig Aussendungen erzeugt (Relaisfunkstellen, Digipeater,
     Funkbaken usw.);
 
-5\.
+5.
 
     \"Relaisfunkstelle\" eine fernbediente Amateurfunkstelle (auch in
     Satelliten), die empfangene Amateurfunkaussendungen, Teile davon
@@ -107,13 +107,13 @@ Im Sinne dieser Verordnung ist
     ausgelöst aussendet und dabei zur Erhöhung der Erreichbarkeit von
     Amateurfunkstellen dient;
 
-6\.
+6.
 
     \"Funkbake\" eine automatisch arbeitende Amateurfunk-Sendeanlage
     (auch in Satelliten), die selbsttätig Aussendungen zur
     Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt;
 
-7\.
+7.
 
     \"Spitzenleistung (PEP)\" die Leistung, die der Sender unter
     normalen Betriebsbedingungen während einer Periode der
@@ -121,26 +121,26 @@ Im Sinne dieser Verordnung ist
     Modulationshüllkurve durchschnittlich an einen reellen
     Abschlusswiderstand abgeben kann;
 
-8\.
+8.
 
     \"effektive Strahlungsleistung (ERP)\" das Produkt aus der Leistung,
     die unmittelbar der Antenne zugeführt wird, und ihrem Gewinn in
     einer Richtung, bezogen auf den Halbwellendipol;
 
-9\.
+9.
 
     \"gleichwertige isotrope Strahlungsleistung (EIRP)\" das Produkt aus
     der Leistung, die unmittelbar der Antenne zugeführt wird, und ihrem
     Gewinn in einer Richtung, bezogen auf den isotropen Kugelstrahler;
 
-10\.
+10.
 
     \"belegte Bandbreite\" die Frequenzbandbreite, bei der die unterhalb
     ihrer unteren und oberhalb ihrer oberen Frequenzgrenzen
     ausgesendeten mittleren Leistungen jeweils 0,5 % der gesamten
     mittleren Leistung der Aussendung betragen;
 
-11\.
+11.
 
     \"unerwünschte Aussendung\" jede Aussendung außerhalb der
     erforderlichen Bandbreite; dies ist die Bandbreite, welche für eine
@@ -175,12 +175,12 @@ das Amateurfunkzeugnis der Klasse A folgende Kenntnisse nachzuweisen:
     elektromagnetische Verträglichkeit und deren Anwendung; Personen-
     und Sachschutz,
 
-2\.
+2.
 
     betriebliche Kenntnisse (nationale und internationale betriebliche
     Regeln und Verfahren) und
 
-3\.
+3.
 
     Kenntnisse über nationale Vorschriften und internationale Regelungen
     und Vereinbarungen.
@@ -257,11 +257,11 @@ sichergestellt ist.
 
 \(3\) Zum Prüfer kann bestellt werden, wer
 
-1\.
+1.
 
     volljährig und
 
-2\.
+2.
 
     Inhaber eines Amateurfunkzeugnisses der Zeugnisklasse A oder im
     Besitz eines mindestens gleichwertigen berufsqualifizierenden
@@ -437,23 +437,23 @@ Regulierungsbehörde ist hiervon zu unterrichten.
 49 Abs. 2 des Verwaltungsverfahrensgesetzes genannten Fällen auch
 widerrufen werden, wenn
 
-1\.
+1.
 
     der Inhaber des Rufzeichens innerhalb eines Jahres nach der
     Zuteilung den bestimmungsgemäßen Betrieb der fernbedienten oder
     automatisch arbeitenden Amateurfunkstelle nicht aufgenommen hat oder
     eine Betriebsunterbrechung von mehr als einem Jahr vorliegt,
 
-2\.
+2.
 
     die Verträglichkeit mit anderen Nutzungen nicht mehr gewährleistet
     ist oder
 
-3\.
+3.
 
     die Voraussetzung des Absatzes 2 Satz 2 nicht mehr gegeben ist oder
 
-4\.
+4.
 
     der Inhaber des Rufzeichens seine Verpflichtungen nach Absatz 1 Satz
     2 oder eine Auflage nach Absatz 3 Satz 2 nicht erfüllt.
@@ -490,16 +490,16 @@ Rufzeichen und ihre Inhaber in einer Rufzeichenliste.
 
 \(2\) Die Rufzeichenliste enthält folgende Angaben:
 
-1\.
+1.
 
     zugeteiltes Rufzeichen, Klasse und Verwendungszweck,
 
-2\.
+2.
 
     Name, Vorname und Anschrift des Inhabers der Zulassung zur Teilnahme
     am Amateurfunkdienst und
 
-3\.
+3.
 
     Standort der ortsfesten Amateurfunkstelle.
 
@@ -586,12 +586,12 @@ Verträglichkeit von Betriebsmitteln bleiben unberührt.
 \(1\) Für Amateurfunkzeugnisse, die vor dem Inkrafttreten dieser
 Verordnung erteilt wurden, gilt:
 
-1\.
+1.
 
     Amateurfunkzeugnisse der Klasse 3 stehen dem Amateurfunkzeugnis der
     Klasse E im Sinne dieser Verordnung gleich.
 
-2\.
+2.
 
     Alle anderen erteilten Amateurfunkzeugnisse stehen dem
     Amateurfunkzeugnis der Klasse A im Sinne dieser Verordnung gleich.
