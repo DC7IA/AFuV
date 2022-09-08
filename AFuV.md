@@ -657,16 +657,13 @@ nach Buchstabe A und Buchstabe B.
 | 35       | 248 - 250 GHz      | P        | A                                         | 75 W PEP          | 13                                       |
 | 36       | > 275 GHz          | -        | -                                         | -                 | 14                                       |
 
-\*)
-
-    P: Amateurfunkdienst ist primärer Funkdienst, S: Amateurfunkdienst
+\*) P: Amateurfunkdienst ist primärer Funkdienst, S: Amateurfunkdienst
     ist sekundärer Funkdienst gemäß
     Frequenzbereichszuweisungsplanverordnung. Die mit "P"
     gekennzeichneten Frequenzbereiche können gleichzeitig auch anderen
     primären Funkdiensten zugewiesen sein.
 
-     
-                B Zusätzliche Nutzungsbestimmungen 
+               B Zusätzliche Nutzungsbestimmungen 
 
 1   Maximal zulässige belegte Bandbreite einer Aussendung: 800 Hz.
 
