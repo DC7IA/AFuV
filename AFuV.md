@@ -3,14 +3,15 @@
 Verordnung zum Gesetz über den Amateurfunk (Amateurfunkverordnung - AFuV)
 =========================================================================
 
-##### Amateurfunkverordnung vom 15. Februar 2005 (BGBl. I S. 242), die zuletzt durch Artikel 4 Absatz 109 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) geändert worden ist
+AFuV
 
-##### Gesetze im Internet - ePub  herausgegeben vom Bundesministerium der Justiz
+Ausfertigungsdatum: 15.02.2005
 
-Verordnung zum Gesetz über den Amateurfunk (Amateurfunkverordnung - AFuV)
-=========================================================================
+Vollzitat:
 
-Zuletzt geändert durch Art. 4 Abs. 109 G v. 18.7.2016 I 1666
+"Amateurfunkverordnung vom 15. Februar 2005 (BGBl. I S. 242), die zuletzt durch Artikel 4 Absatz 109 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) geändert worden ist"
+
+Stand: Zuletzt geändert durch Art. 4 Abs. 109 G v. 18.7.2016 I 1666
 
 Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist
 berücksichtigt
